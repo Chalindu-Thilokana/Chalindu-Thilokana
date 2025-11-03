@@ -34,7 +34,7 @@ I love crafting clean UI/UX using Vue.js, Tailwind, and Laravel, and I’m conti
 
 ## 📊 My Skill Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chalindu-Thilokana&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Top Languages" height="600px" width="800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chalindu-Thilokana&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Top Languages" height="400px" width="1000"/>
 </p>
 
 
