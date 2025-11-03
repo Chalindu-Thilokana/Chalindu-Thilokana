@@ -34,29 +34,29 @@ I love crafting clean UI/UX using Vue.js, Tailwind, and Laravel, and I’m conti
 
 ## 📊 My Skill Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chali-bawantha&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Top Languages" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chalindu-Thilokana&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Top Languages" height="200px"/>
 </p>
 
 ---
 
 ## 🚀 My GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chali-bawantha&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chali-bawantha&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chalindu-Thilokana&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chalindu-Thilokana&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
 ---
 
 ## 🪄 Activity Overview
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chali-bawantha&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chalindu-Thilokana&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chali-bawantha&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chalindu-Thilokana&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
