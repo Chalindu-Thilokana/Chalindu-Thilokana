@@ -1,101 +1,86 @@
-<!-- 👋 Hi there -->
-<h1 align="center">Hey there! 👋 I'm <a href="#">Chalindu Thilokana</a></h1>
+<!-- 👋 Intro Section -->
+<h1 align="center">👋 Hi, I'm <a href="#">Chalindu Thilokana</a></h1>
 <h3 align="center">💻 Junior Software Engineer | Full-Stack Web Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Passionate+about+building+modern+web+apps;Laravel+%7C+Vue.js+%7C+Next.js+%7C+MySQL;Clean+Code+%26+Creative+Design+Lover" alt="Typing Animation" />
+</p>
 
 ---
 
 ### 🧠 About Me  
-🚀 Passionate about creating modern, efficient, and scalable web applications.  
-🌱 Currently improving my skills in **Next.js**, **Laravel**, and **Docker**.  
-🎯 Focused on clean code, reusable components, and optimized performance.  
-💬 Ask me about **Vue.js**, **Inertia.js**, or **Laravel** integrations!  
+I'm a **Junior Software Engineer** passionate about creating modern, efficient, and scalable web applications.  
+I love crafting clean UI/UX using Vue.js, Tailwind, and Laravel, and I’m continuously improving in **Next.js** and **Docker** for full-stack development.  
+
+- 🌍 Based in Sri Lanka  
+- ⚙️ Building web apps using Laravel + Vue + Inertia  
+- 💡 Learning: Advanced API Architecture & DevOps  
+- 💬 Ask me about: Vue.js | Laravel | REST API | Tailwind CSS  
 
 ---
 
-### 🧩 Tech Stack  
+## 🧩 My Tech Stack
 
-#### 💻 Programming Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cs,php" />
-</p>
-
-#### ⚙️ Server-Side Framework  
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel" />
-</p>
-
-#### 🎨 Client-Side Frameworks  
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,vue" />  
-  <img alt="Inertia.js" src="https://img.shields.io/badge/Inertia.js-5A0FC8?style=for-the-badge&logo=inertia&logoColor=white" />
-</p>
-
-#### 🗄️ Database Systems  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-#### 🧰 Development Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,git" />  
-  <img alt="NetBeans" src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
-</p>
-
-#### 🎨 Design Libraries  
-<p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
-</p>
+| Category | Technologies |
+|-----------|---------------|
+| **Programming Languages** | Java, C#, PHP |
+| **Server-Side Framework** | Laravel |
+| **Client-Side Frameworks** | Next.js, Vue.js, Inertia.js |
+| **Database Systems** | MySQL |
+| **Development Tools** | Apache NetBeans IDE, Visual Studio, VS Code, Docker, Git |
+| **Design Libraries** | Bootstrap, Tailwind CSS |
 
 ---
 
-### ⚡️ Featured Projects
-- 🛍️ **E-Commerce Platform** – Built with Laravel + Inertia + Vue.js with dynamic filters and shopping cart.  
-- 📊 **Dashboard Analytics** – Real-time charts using Chart.js integrated with Laravel backend.  
-- 🧾 **Order Management System** – Session-based cart and order history tracking.
-
----
-
-### 📊 GitHub Stats  
+## 📊 My Skill Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chali-bawantha&show_icons=true&theme=radical" alt="GitHub Stats" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chali-bawantha&theme=radical" alt="GitHub Streak" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chali-bawantha&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Top Languages" height="200px"/>
 </p>
 
 ---
 
-### 🪄 Activity Graph
+## 🚀 My GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chali-bawantha&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chali-bawantha&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chali-bawantha&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
 ---
 
-### 🏆 Achievements & Trophies  
+## 🪄 Activity Overview
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chali-bawantha&theme=radical&no-frame=true&margin-w=5" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chali-bawantha&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Connect With Me  
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chali-bawantha&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/your-link" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:youremail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/chali-bawantha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💬 Fun Quote
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=chali-bawantha&data=followers,repositories,stars,commits&theme=tokyonight" />
+</p>
 
 ---
 
-⭐️ *Thanks for visiting my profile! Don’t forget to star some repos you like!*
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and projects.*  
 
