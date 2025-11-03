@@ -34,7 +34,7 @@ I love crafting clean UI/UX using Vue.js, Tailwind, and Laravel, and I’m conti
 
 ## 📊 My Skill Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chalindu-Thilokana&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Top Languages" height="600px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chalindu-Thilokana&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Top Languages" height="600px" width="800"/>
 </p>
 
 
@@ -56,13 +56,7 @@ I love crafting clean UI/UX using Vue.js, Tailwind, and Laravel, and I’m conti
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Chalindu-Thilokana&data=followers,repositories,stars,commits&theme=tokyonight" />
-</p>
-
----
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and projects.*  
 
