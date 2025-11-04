@@ -45,7 +45,7 @@ I love crafting clean UI/UX using Vue.js, Tailwind, and Laravel, and I’m conti
 
 ## 🌐 Linkdin profile 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/chalindu-thilokana-38058a317/" target="_blank">
+  <a href="https://linkedin.com/in/your-link](https://www.linkedin.com/in/chalindu-thilokana-38058a317/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
